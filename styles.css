@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table, thead, tbody, td, th {
+	border: 1px solid black;
+}
+table {
+	width: 100%;
+	height: 50%;
+}
+.cell {
+	color: white;
+	background-color: black
+}
+
+td {
+  text-align: center;
+}
